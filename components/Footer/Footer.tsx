@@ -54,7 +54,7 @@ export function Footer() {
               href="https://github.com/NeeasTooID"
               color="#e534af"
             >
-              ShirokamiRyzen
+              CupMenolakMcy
             </Text>
           </Text>
           <Text
@@ -69,7 +69,7 @@ export function Footer() {
             href="https://github.com/NeeasTooID/TTNST"
             color="#e534af"
           >
-            Source code
+            Source code Web
           </Text>
         </Box>
       </Container>

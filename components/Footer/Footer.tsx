@@ -51,7 +51,7 @@ export function Footer() {
                 event.currentTarget.style.textDecoration = 'none';
               }}
               component="a"
-              href="https://dev.ryzendesu.vip"
+              href="https://github.com/NeeasTooID"
               color="#e534af"
             >
               ShirokamiRyzen
@@ -66,7 +66,7 @@ export function Footer() {
               event.currentTarget.style.textDecoration = 'none';
             }}
             component="a"
-            href="https://github.com/ShirokamiRyzen/tikdown"
+            href="https://github.com/NeeasTooID/TTNST"
             color="#e534af"
           >
             Source code

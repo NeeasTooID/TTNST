@@ -4,6 +4,7 @@ import type { NextPage } from 'next';
 import Footer from '../components/Footer';
 import { useState, ChangeEvent } from 'react';
 import axios from 'axios';
+import { Analytics } from "@vercel/analytics/react";
 
 const useStyles = createStyles((theme) => ({
   inner: {

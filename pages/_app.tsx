@@ -3,6 +3,7 @@ import '../styles/globals.css';
 import type { AppProps } from 'next/app';
 import { Poppins } from "next/font/google";
 import Head from 'next/head';
+import { Analytics } from "@vercel/analytics/react"
 
 const poppins = Poppins({
   weight: ['500', '400', '900'],
@@ -23,6 +24,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         withGlobalStyles
         withNormalizeCSS
       >
+        <Analytics/>
         <Component {...pageProps} />
       </MantineProvider>
     </>

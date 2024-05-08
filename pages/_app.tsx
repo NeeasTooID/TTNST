@@ -14,7 +14,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>tikdown</title>
+        <title>SnapTTDlNST</title>
         <link rel="icon" type="image/png" href="/icons/favicon.png" />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5847575365620125" crossOrigin="anonymous"></script>
       </Head>

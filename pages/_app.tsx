@@ -14,8 +14,9 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Snaptik NST</title>
+        <title>tikdown</title>
         <link rel="icon" type="image/png" href="/icons/favicon.png" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5847575365620125" crossorigin="anonymous"></script>
       </Head>
       <MantineProvider
         theme={{
